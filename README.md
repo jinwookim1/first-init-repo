@@ -1,4 +1,4 @@
-#First init repo
+# First init repo
 안녕하세요 반갑습니다
 오늘 써보니 정말 유용하네요 유익한 도구입니다. 더 배워보고 싶어요
 
